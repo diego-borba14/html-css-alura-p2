@@ -51,6 +51,8 @@ color: #C78C19;
  border-radius: 10px;
 }
 
+.produtos li: hover {
+border-color: #C78C19;
 .produtos h2 {
  font-size: 30px;
  font-weigth: bold;
