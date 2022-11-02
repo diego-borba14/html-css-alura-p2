@@ -41,6 +41,7 @@ nav a {
  vertical-align: top;
  background: #CCCCCC;
  margin: 0 1.5%;
+ padding: 30px 20px;
 }
 
 .produtos h2 {
@@ -50,6 +51,7 @@ nav a {
 
 .produto-descricao {
  font-size: 18px;
+}
 
 .produto-preco {
 font-size: 22px;
