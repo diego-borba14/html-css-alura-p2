@@ -30,9 +30,10 @@ nav a {
 
 nav a:houver {
 color: #C78C19; 
+ text-decoration: underline;
 }
 
-.produtos li {
+.produtos {
  width: 940px;
  margin: 0 auto;
  padding: 50px 0;
