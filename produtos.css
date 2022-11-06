@@ -42,6 +42,8 @@ width: 30%;
  margin: 0 1.5%
   padding: 30px 20px;
  box-sizing: border-box;
+ border: 2px solid #000000;
+ border-radius: 10px;
 }
 
 .produtos h2 {
@@ -50,7 +52,7 @@ width: 30%;
 }
 
 .produto-descricao {
-font-size:18px;
+font-size: 18px;
 }
 
 .produto-preco {
