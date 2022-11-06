@@ -55,6 +55,10 @@ width: 30%;
 border-color: #C78C19;
 }
 
+.produtos li:active {
+border-color: #088C19;
+}
+
 .produtos h2 {
  font-size: 30px;
  font-weigth: bold;
